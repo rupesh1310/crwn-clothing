@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="[/images/react2.svg](https://raw.githubusercontent.com/rupesh1310/monsters-rolodex/master/images/react2.svg?token=AHJGSMWPKJJ7DCCPPDQJQGS6X3QKG)" alt="STYLE CART" width="200"></a>
+<img src="/images/react2.svg" alt="ReactJs Learning" width="200"></a>
   <br>
 STYLE CART
   <br>
