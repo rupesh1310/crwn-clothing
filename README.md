@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img src="[/images/react2.svg](https://sendeyo.com/up/d/f3eb2117da)" alt="STYLE CART" width="200"></a>
+![/images/react2.svg](https://sendeyo.com/up/d/f3eb2117da)
   <br>
 STYLE CART
   <br>
