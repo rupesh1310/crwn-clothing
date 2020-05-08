@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="/images/react2.svg" alt="STYLE CART" width="200"></a>
+  <img src="/images/react2.svg" alt="STYLE-CART" width="200"></a>
   <br>
 STYLE CART
   <br>
