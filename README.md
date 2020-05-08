@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
-![/images/react2.svg](https://sendeyo.com/up/d/f3eb2117da)
+  <img src="/images/react2.svg" alt="STYLE CART" width="200"></a>
   <br>
 STYLE CART
   <br>
 </h1>
-<h4 align="center">An E-Commerce Website based on ReactJs. <a href="https://style-cart.herokuapp.com/" target="_blank">Live Project</a>.</h4>
+<h4 align="center">An E-Commerce Website based on ReactJs. <a href="https://style-cart.herokuapp.com/" target="_blank" text-color='red'>Live Project</a>.</h4>
 
 
 
