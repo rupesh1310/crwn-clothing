@@ -15,6 +15,7 @@ import Header from "./components/header/header.component";
 import { selectCurrentUser } from "./redux/user/user.selectors";
 import { checkUserSession } from "./redux/user/user.actions";
 
+//checking user section
 const App = ({ checkUserSession, currentUser }) => {
   useEffect(() => {
     checkUserSession();
