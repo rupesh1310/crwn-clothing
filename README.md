@@ -5,7 +5,7 @@
 STYLE CART
   <br>
 </h1>
-<h4 align="center">An E-Commerce Website based on ReactJs. <a href="https://style-cart.herokuapp.com/" target="_blank" text-color='red'>Live Project</a>.</h4>
+<h4 align="center">An E-Commerce Website based on ReactJs library.<a href="https://style-cart.herokuapp.com/" target="_blank" text-color='red'>Live Project</a>.</h4>
 
 
 
