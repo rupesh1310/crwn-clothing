@@ -10,8 +10,6 @@ STYLE CART
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-# Style Cart
-
 Full Stack e-commerce website where peoples can purchase their choosable clothes.
 
 ## Table of Contents
